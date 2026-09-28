@@ -1,0 +1,371 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_name,iso_country,region_name,iso_region,local_region,municipality,scheduled_service,gps_code,icao_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+3206,HKJK,large_airport,"Jomo Kenyatta International Airport",-1.318886,36.928233,5330,AF,Kenya,KE,"Nairobi City County",KE-47,47,Nairobi,1,HKJK,HKJK,NBO,,https://www.kenyaairports.com/jkia/IndexJkia.php,https://en.wikipedia.org/wiki/Jomo_Kenyatta_International_Airport,"Jkia Airport, Embakasi Airport, Nairobi International Airport",1200,2026-02-19T18:44:41+00:00
+3213,HKMO,large_airport,"Moi International Airport",-4.03483,39.5942,200,AF,Kenya,KE,"Mombasa County",KE-01,01,Mombasa,1,HKMO,HKMO,MBA,,http://www.kenyaairports.co.ke/kaa/airports/moi/,https://en.wikipedia.org/wiki/Moi_International_Airport,"Mombasa, Port Reitz",1050,2021-10-14T15:05:07+00:00
+3215,HKNW,medium_airport,"Nairobi Wilson Airport",-1.32172,36.8148,5536,AF,Kenya,KE,"Nairobi City County",KE-47,47,Nairobi,1,HKNW,HKNW,WIL,,http://www.kenyaairports.co.ke/kaa/airports/wilson/,https://en.wikipedia.org/wiki/Wilson_Airport,WLN,750,2026-04-09T21:31:18+00:00
+31988,HKML,medium_airport,"Malindi International Airport",-3.22931,40.1017,80,AF,Kenya,KE,"Kilifi County",KE-03,03,Malindi,1,HKML,HKML,MYD,,http://www.kenyaairports.co.ke/kaa/airports/malindi/,https://en.wikipedia.org/wiki/Malindi_Airport,,500,2026-04-08T16:22:41+00:00
+3208,HKKI,large_airport,"Kisumu International Airport",-0.086139,34.728901,3734,AF,Kenya,KE,"Kisumu County",KE-42,42,Kisumu,1,HKKI,HKKI,KIS,,http://www.kenyaairports.co.ke/kaa/airports/kisumu/,https://en.wikipedia.org/wiki/Kisumu_Airport,,1000,2025-12-24T01:22:40+00:00
+3217,HKWJ,medium_airport,"Wajir Airport",1.73324,40.091599,770,AF,Kenya,KE,"Wajir County",KE-08,08,Wajir,1,HKWJ,HKWJ,WJR,,,https://en.wikipedia.org/wiki/Wajir_Airport,,550,2026-04-08T15:55:48+00:00
+3205,HKEL,large_airport,"Eldoret International Airport",0.404458,35.238899,6941,AF,Kenya,KE,"Uasin Gishu County",KE-27,27,Eldoret,1,HKEL,HKEL,EDL,,http://www.kenyaairports.co.ke/kaa/airports/eldoret/,https://en.wikipedia.org/wiki/Eldoret_International_Airport,HKED,1000,2026-04-09T02:59:11+00:00
+32066,HKNL,medium_airport,"Nanyuki Civil Airport",-0.062352,37.041296,6250,AF,Kenya,KE,"Nyeri County",KE-19,19,Gathiuru,1,HKNL,HKNL,NYK,,,https://en.wikipedia.org/wiki/Nanyuki_Airport,,500,2026-04-09T05:15:45+00:00
+3210,HKLK,medium_airport,"Lokichogio Airport",4.20412,34.348202,2074,AF,Kenya,KE,"Turkana County",KE-23,23,Lokichogio,0,HKLK,HKLK,LKG,,http://www.kenyaairports.co.ke/kaa/airports/loki/,https://en.wikipedia.org/wiki/Lokichogio_Airport,,500,2026-04-09T03:00:01+00:00
+31596,HKUK,small_airport,"Ukunda Airstrip",-4.29333,39.571098,98,AF,Kenya,KE,"Kwale County",KE-02,02,Ukunda,0,HKUK,HKUK,UKA,,http://www.kenyaairports.co.ke/kaa/airports/airstrips/ukunda_intro.html,https://en.wikipedia.org/wiki/Ukunda_Airport,"HKKA, Diani, 6643",50,2026-04-08T23:45:21+00:00
+31594,HKMS,medium_airport,"Mara Serena Lodge Airstrip",-1.404588,35.008349,5200,AF,Kenya,KE,"Narok County",KE-33,33,Serena,1,HKMS,HKMS,MRE,,,https://en.wikipedia.org/wiki/Mara_Serena_Airport,6100,500,2026-04-09T03:02:07+00:00
+42595,KE-6112,small_airport,"Angama Mara Airport",-1.271586,34.954666,6180,AF,Kenya,KE,"Narok County",KE-33,33,Lolgorien,0,HKOM,,ANA,,,https://en.wikipedia.org/wiki/Angama_Mara_Airport,"Angama, Olkurruk, Olkurruk Mara",50,2026-04-09T03:03:52+00:00
+3212,HKLU,medium_airport,"Manda Airport",-2.252431,40.912892,20,AF,Kenya,KE,"Lamu County",KE-05,05,Lamu,1,HKLU,HKLU,LAU,,http://www.kenyaairports.co.ke/kaa/airports/airstrips/manda_intro.html,https://en.wikipedia.org/wiki/Manda_Airport,,750,2026-04-08T16:23:33+00:00
+28481,HKAM,medium_airport,"Amboseli Airport",-2.644786,37.252922,3755,AF,Kenya,KE,"Kajiado County",KE-34,34,"Ol Tukai",1,HKAM,HKAM,ASV,,,https://en.wikipedia.org/wiki/Amboseli_Airport,"Maasai Amboseli Game Reserve",500,2026-04-08T14:41:18+00:00
+3211,HKLO,medium_airport,"Lodwar Airport",3.12197,35.6087,1715,AF,Kenya,KE,"Turkana County",KE-23,23,Lodwar,0,HKLO,HKLO,LOK,,,https://en.wikipedia.org/wiki/Lodwar_Airport,,250,2026-04-09T03:06:40+00:00
+318718,KE-0115,small_airport,"Funzi Island Airport",-4.573672,39.447079,44,AF,Kenya,KE,"Kwale County",KE-02,02,"Funzi Island",0,HKFZ,HKFZ,,,,,,50,2026-04-08T18:00:05+00:00
+318736,KE-0133,small_airport,"Kichwa Tembo Airport",-1.263497,35.027533,,AF,Kenya,KE,"Narok County",KE-33,33,"Kichwa Tembo",0,HKTB,,KTJ,,,,,50,2026-04-09T03:07:27+00:00
+42677,KE-0034,small_airport,"Orly Airpark",-1.581194,36.812832,5600,AF,Kenya,KE,"Kajiado County",KE-34,34,Olooloitikosh,0,HKIK,HKIK,,,,,Olooitikosh,50,2026-04-09T03:05:45+00:00
+32500,HKSB,small_airport,"Samburu Airport",0.534069,37.531991,3295,AF,Kenya,KE,"Isiolo County",KE-11,11,"Isiolo West",0,HKSB,HKSB,UAS,,,https://en.wikipedia.org/wiki/Samburu_Airport,"Buffalo Spring",150,2026-04-09T02:55:24+00:00
+42703,HKMK,small_airport,"Mulika Lodge Airport",0.165083,38.195141,2230,AF,Kenya,KE,"Meru County",KE-12,12,Meru-Kinna,1,HKMK,HKMK,JJM,,,https://en.wikipedia.org/wiki/Mulika_Lodge_Airport,"Meru National Park",100,2026-04-08T14:26:45+00:00
+42636,KE-6957,small_airport,"Aruba Airport",-3.342235,38.814481,1300,AF,Kenya,KE,"Taita-Taveta County",KE-06,06,Aruba,0,HKRB,HKRB,,,,,,50,2026-04-08T18:29:09+00:00
+31590,HKLG,small_airport,"Lokitaung Airport",4.319264,35.687879,1805,AF,Kenya,KE,"Turkana County",KE-23,23,Kachoda,0,HKLG,HKLG,,,,https://en.wikipedia.org/wiki/Lokitaung_Airport,,50,2026-04-09T03:12:34+00:00
+3207,HKKG,small_airport,"Kakamega Airport",0.271353,34.78812,5020,AF,Kenya,KE,"Kakamega County",KE-37,37,Kakamega,0,HKKG,HKKG,GGM,,,https://en.wikipedia.org/wiki/Kakamega_Airport,,50,2026-04-08T16:10:39+00:00
+42639,KE-KIU,small_airport,"Kiunga Airport",-1.741272,41.482707,1,AF,Kenya,KE,"Lamu County",KE-05,05,Kiunga,0,HKIU,HKIU,KIU,,,,,50,2026-04-08T18:35:22+00:00
+42633,KE-6937,small_airport,"Lokichar Airport",2.388521,35.648423,2440,AF,Kenya,KE,"Turkana County",KE-23,23,Lokichar,0,HKHE,HKHE,,,,,,50,2026-04-09T03:11:29+00:00
+42537,HKMU,small_airport,"Makindu Airport",-2.290474,37.824559,3513,AF,Kenya,KE,"Makueni County",KE-17,17,Makindu,0,HKMU,HKMU,,,,https://en.wikipedia.org/wiki/Makindu_Airport,,50,2026-04-08T14:31:49+00:00
+42708,KE-0065,small_airport,"Crocodile Camp Airport",-3.076832,39.244552,500,AF,Kenya,KE,"Kilifi County",KE-03,03,Makongeni,0,HKCD,HKCD,,,,,,50,2026-04-08T16:26:31+00:00
+42589,KE-6087,small_airport,"Mara North Conservancy Airstrip",-1.14542,35.124922,5500,AF,Kenya,KE,"Narok County",KE-33,33,"Mara Rianta",0,HKMF,,HKR,,,,,50,2026-04-09T05:09:10+00:00
+318809,KE-0182,small_airport,"Ol Seki Naboisho Airstrip",-1.378468,35.38032,6500,AF,Kenya,KE,"Narok County",KE-33,33,"Mara Simba",0,HKOY,HKOY,OSJ,,https://www.masaimara.travel/olseki-airstrip.php,,,50,2026-04-09T03:10:59+00:00
+31593,HKMM,small_airport,"Migori Airport",-1.116,34.485833,4616,AF,Kenya,KE,"Migori County",KE-44,44,Migori,0,HKMJ,HKMJ,,,,https://en.wikipedia.org/wiki/Migori_Airport,6645,50,2026-04-09T06:44:15+00:00
+42607,KE-6208,small_airport,"Mara-Olkiombo Airport",-1.408586,35.110689,5011,AF,Kenya,KE,"Narok County",KE-33,33,Serena,0,HKOK,HKOK,OLX,,,,,50,2026-04-09T03:13:23+00:00
+42550,KWY,medium_airport,"Kiwayu Airport",-1.960644,41.297156,21,AF,Kenya,KE,"Lamu County",KE-05,05,Kiwayu,0,HKWY,HKWY,KWY,,,https://en.wikipedia.org/wiki/Kiwayu_Airport,"Mkononi Airport",500,2026-04-08T19:06:25+00:00
+3209,HKKT,medium_airport,"Kitale Airport",0.971989,34.958599,6070,AF,Kenya,KE,"Trans-Nzoia County",KE-26,26,Kitale,0,HKKT,HKKT,KTL,,,https://en.wikipedia.org/wiki/Kitale_Airport,,250,2026-04-09T03:13:48+00:00
+3216,HKRE,medium_airport,"Moi Air Base",-1.27727,36.862301,5336,AF,Kenya,KE,"Nairobi City County",KE-47,47,Nairobi,0,HKRE,HKRE,,,,https://en.wikipedia.org/wiki/Moi_Air_Base,"RAF Eastleigh, Eastleigh Airport",250,2025-06-06T17:32:29+00:00
+28485,HKNK,medium_airport,"Nakuru Lanet Airport",-0.298419,36.159193,6234,AF,Kenya,KE,"Nakuru County",KE-32,32,Nakuru,0,HKNK,HKNK,NUU,,,https://en.wikipedia.org/wiki/Nakuru_Airport,"Lanet Military Airstrip",250,2026-04-09T03:15:02+00:00
+44467,HKNY,medium_airport,"Laikipia Air Base",0.029024,37.025196,,AF,Kenya,KE,"Laikipia County",KE-31,31,Nanyuki,0,HKNY,HKNY,,,,,,250,2026-04-09T03:16:31+00:00
+28482,BMQ,small_airport,"Bamburi Airport",-3.98138,39.73112,52,AF,Kenya,KE,"Mombasa County",KE-01,01,Bamburi,0,HKBM,,BMQ,,,https://en.wikipedia.org/wiki/Bamburi_Airport,,100,2026-04-08T16:28:11+00:00
+318757,KE-0154,small_airport,"Limuru Airstrip",-1.106687,36.688778,,AF,Kenya,KE,"Nyeri County",KE-19,19,,0,,,,,,,,50,2016-06-15T09:07:01+00:00
+42685,KE-0042,small_airport,"Hall Hall Airport",0.933333,37.066666,6000,AF,Kenya,KE,"Samburu County",KE-25,25,,0,HKHX,HKHK,,,,,,50,2026-04-09T03:44:42+00:00
+42576,KE-6066,small_airport,"Ngerende Airport",-1.083519,35.18565,5510,AF,Kenya,KE,"Narok County",KE-33,33,Aitong,0,HKGE,HKGE,,,,,,50,2026-04-09T21:27:27+00:00
+318749,KE-0146,small_airport,"Kuluo Airport",-1.12471,35.197795,,AF,Kenya,KE,"Narok County",KE-33,33,Aitong,0,,,,,,,,50,2026-04-09T05:08:44+00:00
+42658,KE-0015,small_airport,"Lake Baringo (Kampi Ya Samaki) Airport",0.603167,36.013,3000,AF,Kenya,KE,"Baringo County",KE-30,30,Akorian,0,,,LBN,,,https://en.wikipedia.org/wiki/Lake_Baringo_Airport,,50,2026-04-09T05:11:43+00:00
+318690,KE-0087,small_airport,"Alale Airport",2.267596,35.029196,5000,AF,Kenya,KE,"West Pokot County",KE-24,24,Alale,0,HKAL,HKAL,,,,,,50,2026-04-08T22:44:36+00:00
+318692,KE-0089,small_airport,"Arabia Airport",3.566973,41.511833,1212,AF,Kenya,KE,"Mandera County",KE-09,09,Arabia,0,HKAD,HKAD,,,,,,50,2026-04-08T22:53:16+00:00
+318728,KE-0125,small_airport,"Kalama Airport",0.694423,37.611987,2934,AF,Kenya,KE,"Samburu County",KE-25,25,"Archers Post",0,,,,,,,,50,2026-04-09T04:37:23+00:00
+318810,KE-0183,small_airport,"Oryx Airport",0.60964,37.53018,3100,AF,Kenya,KE,"Samburu County",KE-25,25,"Archers Post",0,,,,,,,"Samburu Sopa Lodge",50,2026-04-09T03:56:09+00:00
+318693,KE-0090,small_airport,"Asako Airport",-0.107107,39.046973,500,AF,Kenya,KE,"Tana River County",KE-04,04,Bahadale,0,,,,,,,,50,2026-04-08T15:57:33+00:00
+340235,KE-0210,small_airport,"Matangeni East Airstrip",-2.447421,40.740016,,AF,Kenya,KE,"Lamu County",KE-05,05,Bahari,0,,,,,,,,50,2026-04-09T00:04:30+00:00
+42542,KE-6013,small_airport,"Balesa Airport",3.646972,37.350861,2000,AF,Kenya,KE,"Marsabit County",KE-10,10,Balesa,0,HKBL,HKBL,,,,,,50,2026-04-08T23:09:01+00:00
+42619,KE-6656,small_airport,"Banisa Airport",3.897056,40.320253,2998,AF,Kenya,KE,"Mandera County",KE-09,09,Banisa,0,HKBN,HKBN,,,,,,50,2026-04-08T23:13:27+00:00
+42626,KE-6890,small_airport,"Baragoi Airport",1.779485,36.805969,4202,AF,Kenya,KE,"Samburu County",KE-25,25,Baragoi,0,,,,,,,,50,2026-04-09T04:03:57+00:00
+318696,KE-0093,small_airport,"Baragoi West Airport",1.807578,36.679137,,AF,Kenya,KE,"Samburu County",KE-25,25,Baragoi,0,,,,,,,,50,2026-04-09T04:04:24+00:00
+318697,KE-0094,small_airport,"Barsaloi Airport",1.340706,36.856679,,AF,Kenya,KE,"Samburu County",KE-25,25,Barsaloi,0,,,,,,,,50,2026-04-09T04:09:33+00:00
+318695,KE-0092,small_airport,"Batchuma Gate Airport",-3.663575,38.945339,1250,AF,Kenya,KE,"Taita-Taveta County",KE-06,06,Batchuma,0,,,,,,,Bachuma,50,2026-04-08T23:35:25+00:00
+318704,KE-0101,small_airport,"Bomet Airport",-0.776471,35.318411,,AF,Kenya,KE,"Bomet County",KE-36,36,Bomet,0,HKBE,HKBE,,,,,,50,2026-04-09T06:43:43+00:00
+42645,KE-0002,closed,"Nzoia Airport",0.133333,34.083332,3770,AF,Kenya,KE,"Busia County",KE-40,40,Bulukhiro,0,,,,,,,,50,2026-04-08T16:17:01+00:00
+318705,KE-0102,small_airport,"Buna Airport",2.801467,39.481064,1642,AF,Kenya,KE,"Wajir County",KE-08,08,Buna,0,HKBZ,HKBZ,,,,,,50,2026-04-09T00:08:11+00:00
+42531,KE-6998,small_airport,"Bungoma Airport",0.577324,34.555384,4726,AF,Kenya,KE,"Bungoma County",KE-39,39,Bungoma,0,HKBU,HKBU,,,,,,50,2026-04-09T00:13:12+00:00
+31579,HKBR,small_airport,"Bura East Airport",-1.097737,39.949247,345,AF,Kenya,KE,"Garissa County",KE-07,07,Bura,0,HKBR,HKBR,,,,https://en.wikipedia.org/wiki/Bura_East_Airport,,50,2026-04-08T23:37:59+00:00
+318543,KE-0081,small_airport,"Bura West Airport",-1.189574,39.81448,250,AF,Kenya,KE,"Tana River County",KE-04,04,"Bura Tana",0,,,,,,,,50,2026-04-08T23:37:35+00:00
+42530,KE-6997,small_airport,"Busia Airport",0.454903,34.130728,3989,AF,Kenya,KE,"Busia County",KE-40,40,Busia,0,HKBA,HKBA,,,,,,50,2026-04-08T16:13:40+00:00
+318706,KE-0103,small_airport,"Bute Moyale Airport",3.337517,39.41424,2128,AF,Kenya,KE,"Wajir County",KE-08,08,Bute,0,HKBT,HKBT,,,,,,50,2026-04-09T00:30:25+00:00
+607330,KE-7020,small_airport,"Chagaik Airstrip",-0.341416,35.337411,6856,AF,Kenya,KE,"Kericho County",KE-35,35,Chagaik,0,HKCG,HKCG,,,,,,50,2026-04-09T07:36:23+00:00
+42627,KE-6893,small_airport,"Changoi Tea Estate Airport",-0.479808,35.244578,6100,AF,Kenya,KE,"Bomet County",KE-36,36,Changoi,0,,,,,,,,50,2026-04-09T04:12:44+00:00
+318769,KE-0166,small_airport,"Mount Elgon Orchards Airstrip",1.209714,34.796225,,AF,Kenya,KE,"Trans-Nzoia County",KE-26,26,Cherubei,0,HKEO,HKEO,,,,,,50,2026-04-09T04:32:55+00:00
+42554,KE-6033,closed,"Hagadera Airport",0.00797,40.383176,360,AF,Kenya,KE,"Garissa County",KE-07,07,Dadaab,0,,,,,,,,50,2026-04-08T16:01:50+00:00
+318711,KE-0108,small_airport,"Dadaab Airport",0.058189,40.318055,400,AF,Kenya,KE,"Garissa County",KE-07,07,Dadaab,0,HKDA,,,,,,,50,2026-04-08T16:00:05+00:00
+42572,KE-6058,closed,"Didima Bule Airport",-2.369167,39.617584,500,AF,Kenya,KE,"Tana River County",KE-04,04,"Didima Bule",0,,,,,,,,50,2026-04-08T23:38:47+00:00
+31581,KE-0213,closed,"Former El Wak Airport",2.812043,40.932484,1295,AF,Kenya,KE,"Mandera County",KE-09,09,"El Wak",0,,,,,,,"6047, HKEW",50,2026-04-08T16:03:27+00:00
+346598,HKEW,small_airport,"El Wak Airport",2.814204,40.855389,,AF,Kenya,KE,"Mandera County",KE-09,09,"El Wak",0,HKEW,,,,,,,50,2026-04-08T16:02:53+00:00
+42532,KE-6999,small_airport,"Eldoret Boma Airport",0.536926,35.280518,7050,AF,Kenya,KE,"Uasin Gishu County",KE-27,27,Eldoret,0,HKED,HKED,,,,,,50,2026-06-07T08:01:12+00:00
+28480,HKES,small_airport,"Eliye Springs Airport",3.236405,35.974938,1395,AF,Kenya,KE,"Turkana County",KE-23,23,"Eliye Springs",0,HKES,HKES,EYS,,,https://en.wikipedia.org/wiki/Eliye_Springs_Airport,"Ille Springs",50,2026-04-09T04:22:24+00:00
+42545,KE-6019,small_airport,"Head Office Delamere Estates Airport",-0.466199,36.191096,6500,AF,Kenya,KE,"Nakuru County",KE-32,32,Elmenteita,0,,,,,,,,50,2026-04-09T04:23:35+00:00
+42663,KE-0020,small_airport,"Congrieve Airfield",-0.481119,36.123218,5800,AF,Kenya,KE,"Nakuru County",KE-32,32,Elmenteita,0,,,,,,,"Elementaita, Mbweha Camp",50,2026-04-09T07:34:44+00:00
+318727,KE-0124,small_airport,"Jolai Delamere Estates Airport",-0.523628,36.187582,,AF,Kenya,KE,"Nakuru County",KE-32,32,Elmenteita,0,,,,,,,,50,2016-06-15T07:42:41+00:00
+42538,KE-7004,closed,"Embakasi Airport",-1.298219,36.915546,5357,AF,Kenya,KE,"Nairobi City County",KE-47,47,Embakasi,0,,,,,,,HKSA,50,2026-04-08T14:25:50+00:00
+31580,HKEM,small_airport,"Embu Airport",-0.574823,37.496961,4150,AF,Kenya,KE,"Embu County",KE-14,14,Embu,0,HKEM,HKEM,,,,https://en.wikipedia.org/wiki/Embu_Airport,,50,2026-04-08T15:03:41+00:00
+318714,KE-0111,small_airport,"Enasoit Airport",0.235863,37.078371,,AF,Kenya,KE,"Laikipia County",KE-31,31,Enasoit,0,,,,,,,,50,2026-04-09T04:24:14+00:00
+318717,KE-0114,small_airport,"Entasekera Airport",-1.842318,35.86778,,AF,Kenya,KE,"Narok County",KE-33,33,Entasekera,0,,,,,,,,50,2026-04-09T04:26:14+00:00
+318744,KE-0141,small_airport,"Koka Airport",-1.915835,36.006139,,AF,Kenya,KE,"Narok County",KE-33,33,Entasekera,0,,,,,,,,50,2026-04-09T06:19:09+00:00
+318807,KE-0180,closed,"Ol Donyo Laro Airport",-1.813717,36.018261,4450,AF,Kenya,KE,"Narok County",KE-33,33,Entasekera,0,,,,,,,HKLP,50,2026-04-09T03:54:55+00:00
+318710,KE-0107,small_airport,"Cottars Mara Airport",-1.680236,35.343177,5780,AF,Kenya,KE,"Narok County",KE-33,33,Esiot,0,HKCC,HKCC,,,,,"Cottars Camp",50,2026-04-09T03:33:03+00:00
+42628,KE-6894,small_airport,"Borana Airport",0.232462,37.28041,6100,AF,Kenya,KE,"Laikipia County",KE-31,31,Ethi,0,,,,,,,,50,2026-04-09T03:30:56+00:00
+44466,KE-0074,small_airport,"Laragai Airstrip",0.269778,37.329096,,AF,Kenya,KE,"Laikipia County",KE-31,31,Ethi,0,,,,,,,,50,2026-04-09T03:29:41+00:00
+42699,KE-0056,small_airport,"Finch Hattons Airport",-2.945968,37.914688,2644,AF,Kenya,KE,"Taita-Taveta County",KE-06,06,"Finch Hattons",0,,,,,,,,50,2026-04-08T16:49:11+00:00
+31582,HKGT,small_airport,"Garba Tula Airport",0.520716,38.516052,2000,AF,Kenya,KE,"Isiolo County",KE-11,11,"Garba Tula",0,HKGT,HKGT,,,,https://en.wikipedia.org/wiki/Garba_Tula_Airport,,50,2026-04-08T15:05:28+00:00
+31514,HKGA,small_airport,"Garissa Airport",-0.463508,39.6483,475,AF,Kenya,KE,"Garissa County",KE-07,07,Garissa,0,HKGA,HKGA,GAS,,,https://en.wikipedia.org/wiki/Garissa_Airport,,50,2024-05-16T19:58:43+00:00
+42714,KE-0071,small_airport,"Garsen Airport",-2.267013,40.092438,16,AF,Kenya,KE,"Tana River County",KE-04,04,Garsen,0,,,,,,,,50,2026-04-08T23:39:15+00:00
+318720,KE-0117,small_airport,"Gatab Airstrip",2.636477,36.932055,,AF,Kenya,KE,"Marsabit County",KE-10,10,Gatab,0,,,,,,,,50,2026-04-08T15:06:29+00:00
+318715,KE-0112,small_airport,"Engelesha Airport",0.510757,36.294394,6464,AF,Kenya,KE,"Laikipia County",KE-31,31,Gatirima,0,,,,,,,,50,2026-04-09T04:25:36+00:00
+318721,KE-0118,small_airport,"Gilgil Coulson Airport",-0.502798,36.356915,,AF,Kenya,KE,"Nakuru County",KE-32,32,Gilgil,0,,,,,,,"Ndume Langa",50,2026-04-09T05:51:03+00:00
+318741,KE-0138,closed,"Kipipiri Airport",-0.454084,36.493097,,AF,Kenya,KE,"Nyandarua County",KE-18,18,Githioro,0,,,,,,,,50,2026-04-09T05:04:59+00:00
+42623,KE-6883,small_airport,"Fairmont Airstrip",-0.045436,37.129827,7020,AF,Kenya,KE,"Nyeri County",KE-19,19,Gitinga,0,,,,,,,"Fairmont Mount Kenya Safari Club, Mount Kenya Game Ranch",50,2026-04-08T15:34:42+00:00
+318723,KE-0120,small_airport,"Habaswein Airport",1.016215,39.505836,,AF,Kenya,KE,"Wajir County",KE-08,08,Habaswein,0,,,,,,,,50,2026-04-08T15:07:08+00:00
+31611,HKHO,small_airport,"Hola Airport",-1.521276,40.003621,195,AF,Kenya,KE,"Tana River County",KE-04,04,Hola,0,HKHO,HKHO,HOA,,,https://en.wikipedia.org/wiki/Hola_Airport,,50,2026-04-08T23:39:57+00:00
+31583,HKHB,small_airport,"Homa Bay Airport",-0.587322,34.476467,4280,AF,Kenya,KE,"Homa Bay County",KE-43,43,"Homa Bay",0,HKHB,HKHB,,,,https://en.wikipedia.org/wiki/Homa_Bay_Airport,,50,2026-04-09T06:45:20+00:00
+42635,KE-6951,small_airport,"Hulugho Airport",-1.148785,41.046531,490,AF,Kenya,KE,"Garissa County",KE-07,07,Hulugho,0,,,,,,,,50,2026-04-08T16:04:17+00:00
+42697,KE-0054,small_airport,"Hurri Hills Airport",3.341831,37.720792,4300,AF,Kenya,KE,"Marsabit County",KE-10,10,"Hurri Hills",0,,,,,,,,50,2026-04-08T15:09:08+00:00
+42678,KE-0035,small_airport,"Ilbisil Airstrip",-2.120226,36.815678,5000,AF,Kenya,KE,"Kajiado County",KE-34,34,Ilbisil,0,,,,,,,"Bisil, Bissel, Irbisil, Tadlitium",50,2026-04-09T04:10:38+00:00
+318724,KE-0121,small_airport,"Turkana Basin Institute Airstrip",4.281844,36.267102,,AF,Kenya,KE,"Marsabit County",KE-10,10,Ileret,0,,,,,,,"Ileret Main",50,2026-04-08T15:13:26+00:00
+318725,KE-0122,small_airport,"Ileret Airstrip",4.304767,36.23564,,AF,Kenya,KE,"Marsabit County",KE-10,10,Ileret,0,,,,,,,Seislucho,50,2026-04-08T15:52:11+00:00
+42580,KE-6072,small_airport,"Ilkek Airport",-0.602639,36.367474,6350,AF,Kenya,KE,"Nakuru County",KE-32,32,Ilkek,0,,,,,,,,50,2026-04-09T04:35:54+00:00
+318726,KE-0123,closed,"Ilkerin Airport",-1.806828,35.704339,,AF,Kenya,KE,"Narok County",KE-33,33,Ilmarae,0,,,,,,,,50,2026-04-09T04:31:17+00:00
+42546,KE-6020,small_airport,"Intona Ranch Airport",-1.142494,34.807464,5500,AF,Kenya,KE,"Narok County",KE-33,33,Ilmeshuki,0,HKIC,,,,,,,50,2026-04-09T04:33:40+00:00
+318771,KE-0168,small_airport,"Mpala Research Center Airstrip",0.290105,36.892422,,AF,Kenya,KE,"Laikipia County",KE-31,31,Impala,0,,,,,,,,50,2026-04-09T03:48:47+00:00
+31584,HKIS,small_airport,"Isiolo Airport",0.338171,37.591694,3495,AF,Kenya,KE,"Isiolo County",KE-11,11,Isiolo,0,HKIS,HKIS,,,,https://en.wikipedia.org/wiki/Isiolo_Airport,,50,2026-04-08T15:15:30+00:00
+42704,KE-0061,small_airport,"Ithumba Airport",-2.216722,38.38689,1700,AF,Kenya,KE,"Kitui County",KE-15,15,Ithumba,0,,,,,,,,50,2026-04-08T17:07:53+00:00
+340233,KE-0006,small_airport,"Camp Simba Airfield",-2.169513,40.896414,,AF,Kenya,KE,"Lamu County",KE-05,05,Jipe,0,,,,,,,,50,2026-04-08T23:54:24+00:00
+42613,KE-6596,small_airport,"Kajiado Airport",-1.823809,36.787012,5603,AF,Kenya,KE,"Kajiado County",KE-34,34,Kajiado,0,,,,,,,,50,2026-04-09T04:34:50+00:00
+42611,KE-6557,small_airport,"Kakuma Airport",3.705094,34.871293,1906,AF,Kenya,KE,"Turkana County",KE-23,23,Kakuma,0,HKKM,HKKM,,,,,,50,2026-04-09T04:35:10+00:00
+318539,KE-0078,small_airport,"Kalacha Airport",3.134855,37.426236,,AF,Kenya,KE,"Marsabit County",KE-10,10,Kalacha,0,,,,,,,,50,2026-04-08T15:17:44+00:00
+318752,KE-0149,small_airport,"Langata Enerit Airstrip",-1.536513,36.020637,,AF,Kenya,KE,"Narok County",KE-33,33,Kalema,0,,,,,,,,50,2026-04-09T03:38:55+00:00
+318716,KE-0113,small_airport,"Entasopia Airport",-1.783522,36.057783,,AF,Kenya,KE,"Kajiado County",KE-34,34,Kalema,0,,,,,,,,50,2026-04-09T04:38:21+00:00
+31758,HKFG,small_airport,"Kalokol Airport",3.49161,35.836777,1245,AF,Kenya,KE,"Turkana County",KE-23,23,Kalokol,0,HKFG,HKFG,KLK,,,https://en.wikipedia.org/wiki/Kalokol_Airport,"FER, Ferguson's Gulf",50,2026-04-09T04:38:43+00:00
+42641,KE-LKU,closed,"Lake Rudolf Airport",3.416256,35.885468,1300,AF,Kenya,KE,"Turkana County",KE-23,23,Kalokol,0,,,,,,,LKU,50,2026-04-09T06:06:07+00:00
+42629,KE-6907,closed,"Kambi Ya Samaki Airport",-2.319434,37.915699,3093,AF,Kenya,KE,"Makueni County",KE-17,17,"Kambi ya Munyu",0,,,,,,,,50,2026-04-08T14:31:34+00:00
+42701,KE-0058,small_airport,"Kamboyo (Tsavo West) Airport",-2.753061,38.121118,2805,AF,Kenya,KE,"Taita-Taveta County",KE-06,06,Kamboyo,0,,,,,,,,50,2026-04-08T16:42:37+00:00
+318729,KE-0126,small_airport,"Kamburu Airport",-0.823913,37.715869,,AF,Kenya,KE,"Machakos County",KE-16,16,Kamburu,0,,,,,,,,50,2026-04-08T16:20:15+00:00
+42702,KE-0059,small_airport,"Kangetchwa Airport",-3.179622,38.128781,3050,AF,Kenya,KE,"Taita-Taveta County",KE-06,06,Kangetchwa,0,,,,,,,,50,2026-04-08T16:50:36+00:00
+318731,KE-0128,small_airport,"Kanzi Airport",-2.753129,37.879328,,AF,Kenya,KE,"Kajiado County",KE-34,34,Kanzi,0,,,,,,,,50,2026-04-08T16:47:19+00:00
+42567,KE-6050,small_airport,"Gaitu Airport",-0.017893,37.734289,3805,AF,Kenya,KE,"Meru County",KE-12,12,Kaongo,0,,,,,,,,50,2026-04-08T15:04:47+00:00
+42638,KE-6996,small_airport,"Kapchomuswo (Kabarnet) Airport",0.536848,35.728044,6205,AF,Kenya,KE,"Baringo County",KE-30,30,Kapchepterit,0,,,,,,,Kabarnet,50,2026-04-09T04:44:24+00:00
+42661,KE-0018,small_airport,"Kapedo Airport",1.173284,36.090608,2500,AF,Kenya,KE,"Baringo County",KE-30,30,"Kapedo North",0,,,,,,,,50,2026-04-09T04:45:22+00:00
+42625,KE-6888,small_airport,"Kapsumbeiwa Airstrip",0.128564,35.221267,1750,AF,Kenya,KE,"Nandi County",KE-29,29,Kapkorio,0,,,,,,,"Kapsumbeiwa Nandi, Khartoum",50,2026-04-09T04:46:54+00:00
+318702,KE-0099,small_airport,"Bobs Harries Airport",-1.040713,36.992879,,AF,Kenya,KE,"Nyeri County",KE-19,19,Karamaini,0,,,,,,,,50,2022-03-22T18:43:09+00:00
+42673,KE-0030,small_airport,"Kigio (Malewa) Airport",-0.587807,36.406775,6734,AF,Kenya,KE,"Nakuru County",KE-32,32,Karati,0,,,,,,,,50,2026-04-09T04:59:26+00:00
+607325,KE-7016,small_airport,"Naivasha Farm Airstrip",-0.594227,36.427499,,AF,Kenya,KE,"Nakuru County",KE-32,32,Karati,0,,,,,,,,50,2026-04-09T04:59:59+00:00
+318700,KE-0097,small_airport,"Belatrix Kargi Airport",2.505995,37.565966,,AF,Kenya,KE,"Marsabit County",KE-10,10,Kargi,0,,,,,,,,50,2026-04-08T15:21:13+00:00
+42547,KE-6021,closed,"Karimbuni Airport",-0.802967,36.090611,9300,AF,Kenya,KE,"Narok County",KE-33,33,Karimbuni,0,,,,,,,,50,2026-04-09T04:52:05+00:00
+42671,KE-0028,small_airport,"Manyatta Airport",-0.494715,36.352908,6400,AF,Kenya,KE,"Nakuru County",KE-32,32,Karunga,0,,,,,,,"Gilgil Flash",50,2026-04-09T04:27:08+00:00
+42588,KE-6084,small_airport,"Green Park Airport",-0.666147,36.311102,6791,AF,Kenya,KE,"Nakuru County",KE-32,32,Kasarani,0,,,,,,,,50,2026-04-09T04:29:46+00:00
+318821,KE-0194,small_airport,"Sirocco Airstrip",-0.721299,36.28709,6100,AF,Kenya,KE,"Nakuru County",KE-32,32,Kasarani,0,,,,,,,,50,2026-04-09T03:57:51+00:00
+318733,KE-0130,small_airport,"Kataboi Airport",3.756978,35.833826,,AF,Kenya,KE,"Turkana County",KE-23,23,Kataboi,0,,,,,,,,50,2026-04-09T04:55:12+00:00
+318739,KE-0136,small_airport,"Kilalinda Airport",-2.627593,38.338681,,AF,Kenya,KE,"Makueni County",KE-17,17,Kathekani,0,,,,,,,,50,2026-04-08T16:29:07+00:00
+318819,KE-0192,small_airport,"Sheldrick Trust Strip",-2.669864,38.363745,1800,AF,Kenya,KE,"Makueni County",KE-17,17,Kathekani,0,,,,,,,,50,2026-04-08T16:36:32+00:00
+607276,KE-7007,small_airport,"Kilalinda North Airstrip",-2.609847,38.345523,,AF,Kenya,KE,"Makueni County",KE-17,17,Kathekani,0,,,,,,,,50,2026-04-08T16:30:47+00:00
+607278,KE-7008,small_airport,"Kathekani East Airstrip",-2.596273,38.342404,,AF,Kenya,KE,"Makueni County",KE-17,17,Kathekani,0,,,,,,,,50,2026-04-08T16:32:59+00:00
+607280,KE-7010,small_airport,"Tsavo Trust Airstrip",-2.67889,38.32016,,AF,Kenya,KE,"Makueni County",KE-17,17,Kathekani,0,,,,,,,,50,2026-04-08T16:37:33+00:00
+318734,KE-0131,small_airport,"Katilu Airport",2.284536,35.428834,,AF,Kenya,KE,"Turkana County",KE-23,23,Katilu,0,,,,,,,,50,2026-04-09T04:55:50+00:00
+318540,KE-0079,small_airport,"Kauro Airstrip",1.06402,37.720198,,AF,Kenya,KE,"Samburu County",KE-25,25,Kauro,0,,,,,,,,50,2026-04-09T04:56:12+00:00
+31587,HKKE,small_airport,"Keekorok Airport",-1.586345,35.257455,5800,AF,Kenya,KE,"Narok County",KE-33,33,Keekorok,0,HKKE,HKKE,KEU,,,https://en.wikipedia.org/wiki/Keekorok_Airport,,50,2026-04-09T04:57:41+00:00
+318694,KE-0091,small_airport,"Athi River Airport",-1.51094,37.034369,,AF,Kenya,KE,"Machakos County",KE-16,16,Kenplains,0,,,,,,,,50,2026-04-09T00:14:24+00:00
+31743,HKKR,small_airport,"Kericho Airport",-0.3899,35.242093,6446,AF,Kenya,KE,"Kericho County",KE-35,35,Kericho,0,HKKR,HKKR,KEY,,,https://en.wikipedia.org/wiki/Kericho_Airport,,50,2026-04-09T04:57:50+00:00
+42650,KE-0007,small_airport,"Chepgoiben Airstrip",-0.392801,35.33093,6955,AF,Kenya,KE,"Kericho County",KE-35,35,Kericho,0,,,,,,,Chepgoiven,50,2026-04-09T04:14:11+00:00
+318764,KE-0161,small_airport,"Marinyn Airport",-0.436316,35.297992,,AF,Kenya,KE,"Kericho County",KE-35,35,Kericho,0,,,,,,,,50,2026-04-09T06:42:48+00:00
+42557,KE-6036,small_airport,"Lothagah Airport",3.033333,36.049999,1600,AF,Kenya,KE,"Turkana County",KE-23,23,Kerio,0,HKTH,,,,,,,50,2026-04-09T05:24:58+00:00
+31586,HKKB,small_airport,"Kiambere Airport",-0.635825,37.877236,2450,AF,Kenya,KE,"Embu County",KE-14,14,Kiambere,0,HKKB,,,,,,6022,50,2026-04-08T15:21:39+00:00
+318738,KE-0135,small_airport,"Kijabe Airport",-0.957075,36.591668,,AF,Kenya,KE,"Kiambu County",KE-22,22,Kijabe,0,,,,,,,,50,2026-04-09T05:01:13+00:00
+42712,KE-0069,small_airport,"Vipingo Estate Airport",-3.808441,39.797235,86,AF,Kenya,KE,"Kilifi County",KE-03,03,Kikambala,0,,,VPG,,,,,50,2026-04-08T23:52:06+00:00
+42713,KE-0070,small_airport,"Kijipwa Airport",-3.842052,39.805092,40,AF,Kenya,KE,"Kilifi County",KE-03,03,Kikambala,0,,,,,,,,50,2026-04-08T23:50:49+00:00
+31673,HKKL,small_airport,"Kilaguni Airport",-2.906848,38.071738,2750,AF,Kenya,KE,"Taita-Taveta County",KE-06,06,Kilaguni,0,HKKL,HKKL,ILU,,,https://en.wikipedia.org/wiki/Kilaguni_Airport,,50,2026-04-08T16:45:57+00:00
+42585,KE-6079,small_airport,"Kilgoris Airport",-1.079585,34.87741,5755,AF,Kenya,KE,"Narok County",KE-33,33,Kilgoris,0,HKRS,,,,,,,50,2026-04-09T05:02:18+00:00
+42592,KE-6095,small_airport,"Kilifi Plantation Farm Airport",-3.649041,39.85191,3,AF,Kenya,KE,"Kilifi County",KE-03,03,Kilifi,0,,,,,,,,50,2026-04-08T23:41:53+00:00
+318751,KE-0148,small_airport,"Manda Point Airstrip",-2.228949,40.971447,,AF,Kenya,KE,"Lamu County",KE-05,05,Kililana,0,,,,,,,,50,2026-04-08T23:56:34+00:00
+318740,KE-0137,small_airport,"Kimana Airstrip",-2.752942,37.525214,3996,AF,Kenya,KE,"Kajiado County",KE-34,34,Kimana,0,,,,,,,,50,2026-04-08T14:36:33+00:00
+42637,KE-6978,small_airport,"Kerio Valley Airport",0.317916,35.664712,4325,AF,Kenya,KE,"Elgeyo-Marakwet County",KE-28,28,Kimwarer,0,,,KRV,,,https://en.wikipedia.org/wiki/Kimwarer_Airport,,50,2026-04-09T05:02:38+00:00
+42587,KE-6082,closed,"Kinna Airport",0.316667,38.200001,2211,AF,Kenya,KE,"Isiolo County",KE-11,11,Kinna,0,,,,,,,,50,2026-04-08T15:24:17+00:00
+340234,KE-0209,small_airport,"Bahari East Airstrip",-2.446286,40.754641,,AF,Kenya,KE,"Lamu County",KE-05,05,Kiongwe,0,,,,,,,,50,2026-04-08T23:36:11+00:00
+42664,KE-0021,small_airport,"Ndabibi Airport",-0.745246,36.171055,7100,AF,Kenya,KE,"Nakuru County",KE-32,32,Kipkonyo,0,,,,,,,,50,2026-04-09T05:49:47+00:00
+318742,KE-0139,small_airport,"Ndonyo Lengala Strip",0.598082,37.319715,,AF,Kenya,KE,"Isiolo County",KE-11,11,Kipsing,0,,,,,,,,50,2026-04-09T05:05:40+00:00
+318770,KE-0167,small_airport,"Mpala Farm Airstrip",0.352756,36.894339,,AF,Kenya,KE,"Laikipia County",KE-31,31,Kirichu,0,,,,,,,,50,2026-04-09T03:47:40+00:00
+42679,KE-0036,small_airport,"Ol Malo Airstrip",0.659513,36.86741,5800,AF,Kenya,KE,"Laikipia County",KE-31,31,Kirimon,0,,,,,,,"Muridjo Ranch",50,2026-04-09T03:23:08+00:00
+318730,KE-0127,small_airport,"Kamogi Ranch Airstrip",0.601404,36.736467,,AF,Kenya,KE,"Laikipia County",KE-31,31,Kirimon,0,,,,,,,,50,2026-04-09T03:35:47+00:00
+328908,KE-0207,small_airport,"Loisaba Airstrip",0.61196,36.800095,5744,AF,Kenya,KE,"Laikipia County",KE-31,31,Kirimon,0,,,,,,,,50,2026-04-09T03:23:41+00:00
+31588,HKKS,small_airport,"Kisii Airport",-0.672518,34.69099,4905,AF,Kenya,KE,"Kisii County",KE-45,45,Kisii,0,HKKS,HKKS,,,,https://en.wikipedia.org/wiki/Kisii_Airport,,50,2026-04-09T06:43:32+00:00
+42584,KE-6077,small_airport,"Lali Galana Airport",-3.083905,39.264749,500,AF,Kenya,KE,"Kilifi County",KE-03,03,"Kisiki Cha Wangiriam",0,HJLX,HKLX,,,,,"Doa Doa Ranch",50,2026-04-09T01:45:53+00:00
+42710,KE-0067,small_airport,"Kore Galana Ranch Airport",-2.997436,39.288256,,AF,Kenya,KE,"Kilifi County",KE-03,03,"Kisiki Cha Wangiriam",0,,,,,,,,50,2026-04-08T17:01:01+00:00
+42711,KE-0068,small_airport,"Koma Wayu (Tank E) Airstrip",-2.896018,39.49747,500,AF,Kenya,KE,"Kilifi County",KE-03,03,"Kisiki Cha Wangiriam",0,,,,,,,,50,2026-04-08T23:53:23+00:00
+318719,KE-0116,small_airport,"Galana Ranch Airstrip",-3.061225,39.331335,,AF,Kenya,KE,"Kilifi County",KE-03,03,"Kisiki Cha Wangiriam",0,,,,,,,,50,2026-04-08T16:59:20+00:00
+607282,KE-7012,small_airport,"Galana West Airport",-3.069086,39.226745,,AF,Kenya,KE,"Kilifi County",KE-03,03,"Kisiki Cha Wangiriam",0,,,,,,,,50,2026-04-08T17:04:02+00:00
+31591,HKMI,small_airport,"Kisima Airport",0.949109,36.757328,5940,AF,Kenya,KE,"Samburu County",KE-25,25,Kisima,0,HKMI,HKMI,,,,https://en.wikipedia.org/wiki/Kisima_Airport,Maralal,50,2026-04-09T05:35:11+00:00
+31589,HKKU,small_airport,"Kitui Airport",-1.37279,37.9781,3790,AF,Kenya,KE,"Kitui County",KE-15,15,Kitui,0,HKKU,,,,,,6575,50,2026-04-08T15:24:39+00:00
+318712,KE-0109,small_airport,"Dol Dol Airport",0.367944,37.141442,,AF,Kenya,KE,"Laikipia County",KE-31,31,"Kiwanja Ndege",0,,,,,,,,50,2026-04-09T04:16:45+00:00
+42630,KE-6911,closed,"Samburu North Airport",-3.766667,39.283333,967,AF,Kenya,KE,"Kwale County",KE-02,02,Koitogo,0,,,,,,,,50,2026-04-09T03:51:21+00:00
+42573,KE-6061,small_airport,"Komofodo Galana Ranch Airport",-2.547635,39.638055,500,AF,Kenya,KE,"Tana River County",KE-04,04,Kone,0,HKAC,HKAC,,,,,,50,2026-04-09T03:52:29+00:00
+42706,KE-0063,small_airport,"Kone Airport",-2.329158,39.035182,500,AF,Kenya,KE,"Tana River County",KE-04,04,Kone,0,HKON,HKON,,,,,,50,2026-04-09T02:14:46+00:00
+42666,KE-0023,small_airport,"Kongoni Airport",-0.863153,36.228068,6600,AF,Kenya,KE,"Nakuru County",KE-32,32,Kongoni,0,,,,,,,,50,2026-04-09T05:07:04+00:00
+318745,KE-0142,small_airport,"Kongoni Game Valley Airport",-0.843317,36.259475,,AF,Kenya,KE,"Nakuru County",KE-32,32,Kongoni,0,,,,,,,,50,2016-06-15T08:33:05+00:00
+318746,KE-0143,small_airport,"Korr Don Bosco Mission Airstrip",2.013693,37.517637,,AF,Kenya,KE,"Marsabit County",KE-10,10,Korr,0,,,,,,,,50,2026-04-08T15:25:51+00:00
+318747,KE-0144,small_airport,"Korr AIM Airstrip",2.007589,37.492161,,AF,Kenya,KE,"Marsabit County",KE-10,10,Korr,0,,,,,,,,50,2026-04-08T15:26:17+00:00
+42620,KE-6873,small_airport,"George Smith Farm Airport",0.610893,35.282059,6880,AF,Kenya,KE,"Uasin Gishu County",KE-27,27,Kuinet,0,,,,,,,,50,2026-04-09T03:20:35+00:00
+607281,KE-7011,small_airport,"Iltilal Airstrip",-2.89335,37.877737,,AF,Kenya,KE,"Kajiado County",KE-34,34,Kuku,0,,,,,,,,50,2026-04-08T16:50:02+00:00
+42552,KE-6028,small_airport,"Kulalu Ranch Airport",-3.102921,39.39604,,AF,Kenya,KE,"Kilifi County",KE-03,03,Kulalu,0,HKUR,HKUR,,,,,,50,2026-04-09T01:30:06+00:00
+318750,KE-0147,small_airport,"Olmoran Airfield",0.64436,36.428876,,AF,Kenya,KE,"Laikipia County",KE-31,31,Kuti,0,,,,,,,,50,2026-04-09T05:10:25+00:00
+42709,KE-0066,small_airport,"Kwale Airport",-4.170062,39.433923,1380,AF,Kenya,KE,"Kwale County",KE-02,02,Kwale,0,,,,,,,,50,2026-04-08T23:46:28+00:00
+42684,KE-0041,small_airport,"Laburra Airport",-0.298471,36.947185,6030,AF,Kenya,KE,"Nyeri County",KE-19,19,Laburra,0,,,,,,,,50,2016-06-16T05:01:19+00:00
+42539,KE-6002,small_airport,"Laisamis Airport",1.578228,37.810502,1866,AF,Kenya,KE,"Marsabit County",KE-10,10,Laisamis,0,HKLA,,,,,,,50,2026-04-08T15:26:54+00:00
+42698,KE-0055,small_airport,"Lake Jipe Airport",-3.626263,37.78253,2400,AF,Kenya,KE,"Taita-Taveta County",KE-06,06,"Lake Jipe",0,,,,,,,,50,2026-04-08T23:47:24+00:00
+42599,KE-6151,small_airport,"Solio Ranch Airport",-0.243208,36.880909,6300,AF,Kenya,KE,"Laikipia County",KE-31,31,Lamuria,0,HKSL,HKSL,,,,,"Solio Airstrip",50,2026-04-09T03:18:12+00:00
+42680,KE-0037,small_airport,"Nanyuki West Airport",-0.141092,36.914995,6000,AF,Kenya,KE,"Laikipia County",KE-31,31,Lamuria,0,,,,,,,,50,2026-04-09T05:47:33+00:00
+318754,KE-0151,small_airport,"Latakweny Airport",1.547691,37.108677,,AF,Kenya,KE,"Samburu County",KE-25,25,Latakweny,0,,,,,,,,50,2026-04-09T05:12:29+00:00
+42560,KE-6041,small_airport,"Nampaso Airport",-1.045444,35.258906,5500,AF,Kenya,KE,"Narok County",KE-33,33,Lemek,0,,,,,,,,50,2026-04-09T05:47:01+00:00
+318703,KE-0100,small_airport,"Enarau Conservancy Airstrip",-1.014151,35.342216,,AF,Kenya,KE,"Narok County",KE-33,33,Lemek,0,,,,,,,Bogani,50,2026-04-09T04:11:44+00:00
+44470,KE-0076,small_airport,"Mount Kenya Lodge Airstrip",-0.161788,37.44557,,AF,Kenya,KE,"Meru County",KE-12,12,Lenana,0,,,,,,,"Chogoria Gate, Mount Kenya National Park",50,2026-04-08T15:28:56+00:00
+31796,KE-LBK,small_airport,"Liboi Airport",0.348333,40.881699,280,AF,Kenya,KE,"Garissa County",KE-07,07,Liboi,0,,,LBK,,,https://en.wikipedia.org/wiki/Liboi_Airport,,50,2026-04-08T16:06:36+00:00
+318538,KE-0077,small_airport,"Log Logo Airstrip",1.994582,37.916434,,AF,Kenya,KE,"Marsabit County",KE-10,10,"Log Logo",0,,,,,,,,50,2026-04-08T15:29:31+00:00
+31842,HKLY,small_airport,"Loiyangalani Airport",2.763605,36.718325,1195,AF,Kenya,KE,"Marsabit County",KE-10,10,Loiyangalani,0,HKLY,HKLY,LOY,,,https://en.wikipedia.org/wiki/Loiyangalani_Airport,Loyengalani,50,2026-04-08T15:31:31+00:00
+607326,KE-7017,small_airport,"Kapese Airstrip",2.368708,35.716184,,AF,Kenya,KE,"Turkana County",KE-23,23,Lokichar,0,,,,,,,,50,2026-04-09T05:22:59+00:00
+42540,KE-6007,small_airport,"Lokori Airport",1.968939,36.017375,1990,AF,Kenya,KE,"Turkana County",KE-23,23,Lokori,0,HKLR,,,,,,,50,2026-04-09T05:17:45+00:00
+42670,KE-0027,small_airport,"Loldia Airport",-0.694161,36.316681,1970,AF,Kenya,KE,"Nakuru County",KE-32,32,Loldia,0,,,,,,,,50,2026-04-09T03:58:12+00:00
+42555,KE-6034,small_airport,"Lomolo Airport",0.028525,35.990654,5200,AF,Kenya,KE,"Nakuru County",KE-32,32,Lomolo,0,HKMX,,,,,,,50,2026-04-09T05:20:45+00:00
+42556,KE-6035,small_airport,"Loperot Airport",2.345275,35.882778,2011,AF,Kenya,KE,"Turkana County",KE-23,23,Loperot,0,HKOP,,,,,,,50,2026-04-09T05:21:59+00:00
+318713,KE-0110,small_airport,"Milgis Trust Airstrip",1.465284,37.073011,,AF,Kenya,KE,"Samburu County",KE-25,25,"Lorok Onyokie",0,,,,,,,"El Kantor",50,2026-04-09T04:20:37+00:00
+42558,KE-6037,small_airport,"Lotubae Airport",2.033008,36.130927,1700,AF,Kenya,KE,"Turkana County",KE-23,23,Lotubae,0,,,,,,,,50,2026-04-09T05:26:46+00:00
+318760,KE-0157,small_airport,"Lowarengak Airport",4.284767,35.870662,,AF,Kenya,KE,"Turkana County",KE-23,23,Lowarengak,0,,,,,,,,50,2026-04-09T05:27:14+00:00
+42553,KE-6029,small_airport,"Lubarra Airport",-1.2999999523162842,36.95000076293945,6100,AF,Kenya,KE,"Nairobi City County",KE-47,47,Lubarra,0,,,,,,,,50,2008-12-05T17:18:55+00:00
+42609,KE-6394,small_airport,"Lunga-Lunga Airport",-4.52864,39.152237,193,AF,Kenya,KE,"Kwale County",KE-02,02,Lunga-Lunga,0,,,,,,,,50,2026-04-08T23:54:59+00:00
+42535,KE-7002,small_airport,"Mackinnon Road Airport",-3.730548,39.039413,1446,AF,Kenya,KE,"Kwale County",KE-02,02,"Mackinnon Road",0,HKMR,HKMR,,,,https://en.wikipedia.org/wiki/Mackinnon_Road_Airport,,50,2026-06-07T07:46:17+00:00
+42632,KE-6924,small_airport,"Mado Gashi Airport",0.720061,39.179998,1000,AF,Kenya,KE,"Garissa County",KE-07,07,"Mado Gashi",0,,,,,,,,50,2026-04-08T16:06:56+00:00
+42534,KE-7001,small_airport,"Magadi Airport",-1.947953,36.279916,1955,AF,Kenya,KE,"Kajiado County",KE-34,34,Magadi,0,HKMG,HKMG,,,,,,50,2026-06-07T07:50:51+00:00
+42581,KE-6074,small_airport,"Maikona Airstrip",2.903096,37.476723,,AF,Kenya,KE,"Marsabit County",KE-10,10,Maikona,0,,,,,,,,50,2026-04-08T15:20:00+00:00
+318832,KE-0203,small_airport,"Wanjala Mine Airstrip",-3.245482,38.181898,3800,AF,Kenya,KE,"Taita-Taveta County",KE-06,06,Makinyambu,0,,,,,,,,50,2026-04-08T16:51:35+00:00
+42700,KE-0057,small_airport,"Maktau Gate Airport",-3.408667,38.119919,3500,AF,Kenya,KE,"Taita-Taveta County",KE-06,06,Maktau,0,,,,,,,,50,2026-04-08T16:54:25+00:00
+42634,KE-6946,small_airport,"Kapenguria (Kishaunet) Airport",1.273083,35.0681,6482,AF,Kenya,KE,"West Pokot County",KE-24,24,Makutano,0,,,,,,,Kisiaunet,50,2026-04-09T03:09:02+00:00
+32014,HKMA,small_airport,"Mandera Airport",3.933816,41.844114,805,AF,Kenya,KE,"Mandera County",KE-09,09,Mandera,0,HKMA,HKMA,NDE,,,https://en.wikipedia.org/wiki/Mandera_Airport,,50,2026-04-08T15:58:47+00:00
+318763,KE-0160,small_airport,"Manyani Airport",-3.094749,38.476476,,AF,Kenya,KE,"Taita-Taveta County",KE-06,06,Manyani,0,,,,,,,"KWS Manyani Airstrip",50,2026-04-08T16:46:37+00:00
+329819,KE-0208,small_airport,"Olare Orok Airfield",-1.324213,35.246106,5779,AF,Kenya,KE,"Narok County",KE-33,33,Mara,0,,,OLG,,,,,50,2026-04-09T04:01:55+00:00
+42596,KE-6121,small_airport,"Musiara Airstrip",-1.298636,35.063885,5117,AF,Kenya,KE,"Narok County",KE-33,33,"Mara Rianta",0,HKSJ,HKSJ,MDR,,,,,50,2026-04-09T21:03:43+00:00
+42648,KE-0005,small_airport,"Mara Shikar Airport",-1.069278,35.050777,5500,AF,Kenya,KE,"Narok County",KE-33,33,"Mara Shikar",0,,,,,,,,50,2026-04-09T05:32:42+00:00
+42610,KE-6396,closed,"Maralal Airport",1.098487,36.695144,6450,AF,Kenya,KE,"Samburu County",KE-25,25,Maralal,0,,,,,,,,50,2026-04-09T05:33:33+00:00
+318542,KE-0080,small_airport,"Baomo Tana Airport",-1.847326,40.091586,200,AF,Kenya,KE,"Tana River County",KE-04,04,Maroni,0,,,,,,,,50,2026-04-08T23:57:19+00:00
+32198,HKMB,small_airport,"Marsabit Airport",2.344254,37.999996,4395,AF,Kenya,KE,"Marsabit County",KE-10,10,Marsabit,0,HKMB,HKMB,RBT,,,https://en.wikipedia.org/wiki/Marsabit_Airport,,50,2026-04-08T15:32:59+00:00
+318817,KE-0190,small_airport,"Segel Airstrip",2.544761,37.944126,2000,AF,Kenya,KE,"Marsabit County",KE-10,10,Marsabit,0,,,,,,,,50,2026-04-08T15:32:38+00:00
+42631,KE-6920,closed,"Masalani (Fanjaa) Airport",-1.695655,40.125721,150,AF,Kenya,KE,"Tana River County",KE-04,04,Masalani,0,,,,,,,,50,2026-04-09T00:00:40+00:00
+607274,KE-7005,small_airport,"REA Vipingo Airstrip",-2.41398,38.00291,2871,AF,Kenya,KE,"Makueni County",KE-17,17,Masimbani,0,,,,,,,,50,2026-04-08T14:30:04+00:00
+318762,KE-0159,small_airport,"Malinda Estate Airstrip",-1.483679,37.098339,,AF,Kenya,KE,"Machakos County",KE-16,16,Mathatani,0,,,,,,,,50,2026-04-08T14:54:34+00:00
+318813,KE-0186,small_airport,"Rukinga Ranch Airstrip",-3.575566,38.760165,1767,AF,Kenya,KE,"Taita-Taveta County",KE-06,06,Maungu,0,,,,,,,,50,2026-04-08T16:58:36+00:00
+42667,KE-0024,small_airport,"Delamare Camp Airport",-0.399523,36.234254,5800,AF,Kenya,KE,"Nakuru County",KE-32,32,Mbaruk,0,,,,,,,,50,2026-04-09T03:46:04+00:00
+318766,KE-0163,small_airport,"Mbaruk Airport",-0.397362,36.215325,,AF,Kenya,KE,"Nakuru County",KE-32,32,Mbaruk,0,,,,,,,,50,2026-04-09T03:45:43+00:00
+42696,KE-0053,small_airport,"Mbirikani Airport",-2.56229,37.543027,3900,AF,Kenya,KE,"Kajiado County",KE-34,34,Mbirikani,0,,,,,,,,50,2026-04-08T14:35:22+00:00
+42559,KE-6040,small_airport,"Menengai Airport",-0.229829,36.005713,6650,AF,Kenya,KE,"Nakuru County",KE-32,32,Menengai,0,,,,,,,,50,2026-04-09T05:40:07+00:00
+318767,KE-0164,small_airport,"Merti Airstrip",1.090173,38.599714,,AF,Kenya,KE,"Isiolo County",KE-11,11,Merti,0,,,,,,,"Meriti, Meriti Oil Rig",50,2026-04-08T15:37:45+00:00
+318544,KE-0082,small_airport,"Tana River Rapids Airport",-0.069552,38.382484,,AF,Kenya,KE,"Meru County",KE-12,12,"Meru National Park",0,,,,,,,,50,2026-04-08T14:55:13+00:00
+318545,KE-0083,small_airport,"Tana River Airport",-0.049021,38.308839,,AF,Kenya,KE,"Meru County",KE-12,12,"Meru National Park",0,,,,,,,,50,2026-04-08T14:55:47+00:00
+318546,KE-0084,small_airport,"Rojewero River Airport",0.118823,38.268142,,AF,Kenya,KE,"Meru County",KE-12,12,"Meru National Park",0,,,,,,,,50,2026-04-08T14:56:28+00:00
+318547,KE-0085,small_airport,"Ura Gate Airstrip",0.02597,38.065436,,AF,Kenya,KE,"Meru County",KE-12,12,"Meru National Park",0,,,,,,,"Tharaka Nithi Meru",50,2026-04-08T15:01:55+00:00
+318772,KE-0169,small_airport,"Mughwongo Hill Airport",0.121521,38.13033,,AF,Kenya,KE,"Meru County",KE-12,12,"Meru National Park",0,,,,,,,Mughwango,50,2026-04-08T14:50:00+00:00
+42644,KE-0001,small_airport,"Mfangano Airport",-0.463046,34.062473,3750,AF,Kenya,KE,"Homa Bay County",KE-43,43,"Mfangano Island",0,HKZF,HKZF,,,,,,50,2026-04-09T07:05:35+00:00
+318689,KE-0086,small_airport,"Airspray Naivasha Airfield",-0.797263,36.40794,6200,AF,Kenya,KE,"Nakuru County",KE-32,32,Mirera,0,,,,,,,,50,2026-04-09T04:50:43+00:00
+42593,KE-6109,small_airport,"Mitunguu Airport",-0.111305,37.788594,3100,AF,Kenya,KE,"Meru County",KE-12,12,Mitunguu,0,,,,,,,,50,2026-04-08T15:33:41+00:00
+42591,KE-6089,small_airport,"Maji Mazuri Airport",0.886789,35.19948,6980,AF,Kenya,KE,"Uasin Gishu County",KE-27,27,"Moi's Bridge",0,HKZM,,,,,,,50,2026-04-09T05:31:19+00:00
+42594,KE-6110,small_airport,"Mokowe Airport",-2.227678,40.845139,3,AF,Kenya,KE,"Lamu County",KE-05,05,Mokowe,0,,,,,,,,50,2026-04-09T00:05:27+00:00
+42541,KE-6012,small_airport,"Arroket Airport",-0.624792,35.065847,5955,AF,Kenya,KE,"Bomet County",KE-36,36,Monire,0,HKAR,,,,,,,50,2026-04-09T04:03:30+00:00
+32141,HKMY,small_airport,"Moyale Airport",3.46972,39.101398,2790,AF,Kenya,KE,"Marsabit County",KE-10,10,Moyale,0,HKMY,HKMY,OYL,,,https://en.wikipedia.org/wiki/Moyale_Airport,,50,2026-04-08T15:39:01+00:00
+42707,KE-0064,small_airport,"Moyale Boma Airstrip",3.524281,39.047738,2790,AF,Kenya,KE,"Marsabit County",KE-10,10,Moyale,0,,,,,,,,50,2026-04-08T15:37:10+00:00
+42536,KE-7003,small_airport,"Mtito Andei Airport",-2.713806,38.195006,2397,AF,Kenya,KE,"Taita-Taveta County",KE-06,06,"Mtito Andei",0,HKMT,HKMT,,,,,,50,2026-06-07T07:40:31+00:00
+42549,KE-6025,small_airport,"Kisima Farm Airport",0.112167,37.423262,7800,AF,Kenya,KE,"Meru County",KE-12,12,Muchiene,0,,,,,,,,50,2026-04-08T14:43:02+00:00
+42695,KE-0052,small_airport,"Lewa Airstrip",0.195157,37.470289,5600,AF,Kenya,KE,"Meru County",KE-12,12,Muchiene,0,,,,,,,"Lewa Downs",50,2026-04-08T15:11:13+00:00
+42643,KE-MUM,small_airport,"Mumias Airport",0.355399,34.528234,4163,AF,Kenya,KE,"Kakamega County",KE-37,37,Mumias,0,,,,,,,MUM,50,2026-04-08T16:14:03+00:00
+318774,KE-0171,small_airport,"Mutomo Airport",-1.846779,38.204732,,AF,Kenya,KE,"Kitui County",KE-15,15,Mutomo,0,,,,,,,,50,2026-04-08T15:39:41+00:00
+318798,KE-0172,small_airport,"Mwatate Airport",-3.517815,38.442556,2580,AF,Kenya,KE,"Taita-Taveta County",KE-06,06,Mwatate,0,,,,,,,,50,2026-04-08T16:56:54+00:00
+42614,KE-6646,small_airport,"Marrian's Airport",-0.3405900001525879,36.91352462768555,6400,AF,Kenya,KE,"Nyeri County",KE-19,19,Mweiga,0,,,,,,,,50,2008-12-05T17:19:59+00:00
+318801,KE-0174,small_airport,"Nariokotome Airport",4.114564,35.84352,1600,AF,Kenya,KE,"Turkana County",KE-23,23,Nachukui,0,,,,,,,,50,2026-04-09T03:52:15+00:00
+42662,KE-0019,small_airport,"Naishi Airport",-0.452654,36.085496,5500,AF,Kenya,KE,"Nakuru County",KE-32,32,Naishi,0,,,,,,,,50,2026-04-09T05:42:30+00:00
+3214,HKNV,closed,"Naivasha Airport",-0.788035,36.43329,6380,AF,Kenya,KE,"Nakuru County",KE-32,32,Naivasha,0,,,,,,https://en.wikipedia.org/wiki/Naivasha_Airport,"Naivasha South, HKNV",50,2026-04-07T20:31:31+00:00
+318698,KE-0095,small_airport,"Barton's Naivasha Airport",-0.795118,36.295698,,AF,Kenya,KE,"Nakuru County",KE-32,32,Naivasha,0,,,,,,,,50,2016-06-15T05:30:00+00:00
+318699,KE-0096,small_airport,"Crescent Island Naivasha Airport",-0.767433,36.397561,,AF,Kenya,KE,"Nakuru County",KE-32,32,Naivasha,0,,,,,,,,50,2016-06-15T05:31:15+00:00
+318759,KE-0156,small_airport,"Longonot Fair Airstrip",-0.817141,36.391404,6365,AF,Kenya,KE,"Nakuru County",KE-32,32,Naivasha,0,HKOT,HKOT,,,,,,50,2026-04-09T03:41:49+00:00
+42657,KE-0014,small_airport,"Kabarak Airstrip",-0.189141,35.962871,6368,AF,Kenya,KE,"Nakuru County",KE-32,32,Nakuru,0,,,,,,,Barclays,50,2026-04-09T05:43:33+00:00
+325692,HKTW,small_airport,"Tawi Lodge Airstrip",-2.72958,37.428691,3800,AF,Kenya,KE,"Kajiado County",KE-34,34,Namelok,0,HKTQ,HKTQ,,,,,,50,2026-04-08T17:22:05+00:00
+318812,KE-0185,small_airport,"Perror Airport",2.846734,35.050887,2500,AF,Kenya,KE,"Turkana County",KE-23,23,Namoruputh,0,,,,,,,,50,2026-04-09T05:45:56+00:00
+42551,KE-6027,small_airport,"Kamok Airstrip",0.053588,36.795587,6290,AF,Kenya,KE,"Laikipia County",KE-31,31,Nanyuki,0,,,,,,,,50,2026-04-09T04:43:34+00:00
+318773,KE-0170,small_airport,"Mukenye Ranch Airstrip",0.251711,36.805338,,AF,Kenya,KE,"Laikipia County",KE-31,31,Nanyuki,0,,,,,,,"Segera Retreat",50,2026-04-09T03:49:47+00:00
+607275,KE-7006,small_airport,"Il Ngwesi Airstrip",0.359715,37.354913,,AF,Kenya,KE,"Laikipia County",KE-31,31,Nanyuki,0,,,,,,,,50,2026-04-08T15:12:26+00:00
+356230,KE-0060,small_airport,"Nariokotome Mission Airport",4.1232,35.85745,,AF,Kenya,KE,"Turkana County",KE-23,23,Nariokotome,0,,,,,,,,50,2026-04-09T05:48:01+00:00
+318802,KE-0175,small_airport,"National Park Airstrip",-0.170666,37.136612,7500,AF,Kenya,KE,"Nyeri County",KE-19,19,"Naro Moru",0,,,,,,,,50,2016-06-16T04:04:34+00:00
+31595,HKNO,small_airport,"Narok Airport",-1.13003,35.789124,6311,AF,Kenya,KE,"Narok County",KE-33,33,Narok,0,HKNO,HKNO,,,,https://en.wikipedia.org/wiki/Narok_Airport,,50,2026-04-09T05:48:38+00:00
+42570,KE-6055,small_airport,"Turkwel Gorge Airport",1.895681,35.38826,2625,AF,Kenya,KE,"West Pokot County",KE-24,24,Nasolot,0,HKTW,HKTW,,,,,,50,2026-04-09T06:09:32+00:00
+42561,KE-6042,closed,"Ndovu Airport",2.013778,38.63422,1150,AF,Kenya,KE,"Marsabit County",KE-10,10,Ndovu,0,,,,,,,,50,2026-04-08T15:41:06+00:00
+318804,KE-0177,small_airport,"Ngao Airport",-2.42834,40.193087,150,AF,Kenya,KE,"Tana River County",KE-04,04,Ngao,0,,,,,,,,50,2026-04-09T00:06:25+00:00
+318818,KE-0191,small_airport,"Shaba Lodge Airport",0.658176,37.700377,2600,AF,Kenya,KE,"Isiolo County",KE-11,11,"Ngare Mara",0,,,,,,,,50,2026-04-08T14:48:38+00:00
+44465,KE-0073,small_airport,"Ngare Ndare Airstrip",0.231557,37.364159,5500,AF,Kenya,KE,"Meru County",KE-12,12,"Ngare Ndare",0,HKFD,HKFD,,,,,,50,2026-04-09T03:28:36+00:00
+42668,KE-0025,small_airport,"Ngelesha Airport",1.517222,36.285278,6000,AF,Kenya,KE,"Turkana County",KE-23,23,Ngelesha,0,,,,,,,,50,2026-04-09T06:05:29+00:00
+318803,KE-0176,small_airport,"Ngilai Airstrip",1.170659,37.252765,4150,AF,Kenya,KE,"Samburu County",KE-25,25,Ngilai,0,,,,,,,,50,2026-04-09T05:51:58+00:00
+42615,KE-6647,closed,"Nginyang (Kinkang) Airport",0.926211,36.023547,2368,AF,Kenya,KE,"Baringo County",KE-30,30,Nginyang,0,,,,,,,Kinkang,50,2026-04-09T05:57:01+00:00
+42563,KE-6044,closed,"Ngore Ngore Airport",-1.835944,37.784195,6290,AF,Kenya,KE,"Makueni County",KE-17,17,"Ngore Ngore",0,,,,,,,,50,2026-04-08T15:44:07+00:00
+42616,KE-6648,small_airport,"Ngulia Lodge Airport",-2.947635,38.250075,2500,AF,Kenya,KE,"Taita-Taveta County",KE-06,06,"Ngulia Lodge",0,,,,,,,"Rhino Sanctuary Airstrip",50,2026-04-08T16:45:03+00:00
+318805,KE-0178,small_airport,"Ngurunit Airstrip",1.735737,37.3216,3200,AF,Kenya,KE,"Samburu County",KE-25,25,Ngurunit,0,,,,,,,,50,2026-04-09T05:58:52+00:00
+607279,KE-7009,small_airport,"Subati Airstrip",-2.532761,38.285218,,AF,Kenya,KE,"Makueni County",KE-17,17,Ngwata,0,,,,,,,,50,2026-04-08T16:33:58+00:00
+42656,KE-0013,small_airport,"Njoro Airport",-0.331626,35.933833,7100,AF,Kenya,KE,"Nakuru County",KE-32,32,Njoro,0,,,,,,,,50,2026-04-09T06:00:21+00:00
+42598,KE-6127,small_airport,"Beverley Airport",3.318857,37.064294,1187,AF,Kenya,KE,"Marsabit County",KE-10,10,"North Horr",0,HKZT,,,,,,,50,2026-04-08T15:45:09+00:00
+318768,KE-0165,small_airport,"Milmet Airport",-0.1115,36.124334,,AF,Kenya,KE,"Nyandarua County",KE-18,18,Nyadundo,0,,,,,,,,50,2026-04-09T03:46:55+00:00
+42672,KE-0029,small_airport,"Nyahururu Airport",-0.013767000287771225,36.36973571777344,7750,AF,Kenya,KE,"Nyeri County",KE-19,19,Nyahururu,0,,,,,,,,50,2008-12-05T17:21:00+00:00
+32065,HKNI,small_airport,"Nyeri Airport",-0.364414,36.978485,5830,AF,Kenya,KE,"Nyeri County",KE-19,19,Nyeri,0,HKNI,HKNI,NYE,,,https://en.wikipedia.org/wiki/Nyeri_Airport,,50,2024-06-07T08:20:57+00:00
+42676,KE-0033,small_airport,"Ol Maisor Airport",0.413292,36.651665,5900,AF,Kenya,KE,"Laikipia County",KE-31,31,"Ol Maisor",0,HKSO,HKSO,,,,,Olmaisor,50,2026-04-09T07:56:07+00:00
+318829,KE-0200,small_airport,"Tortilis Camp Airstrip",-2.683626,37.178356,3806,AF,Kenya,KE,"Kajiado County",KE-34,34,"Ol Tukai",0,,,,,,,,50,2026-04-09T04:00:44+00:00
+318806,KE-0179,small_airport,"Olderkesi Airstrip",-1.713883,35.559288,6100,AF,Kenya,KE,"Narok County",KE-33,33,Olderkesi,0,,,,,,,"Ol Derkessi",50,2026-04-09T03:54:18+00:00
+42597,KE-6123,small_airport,"Namanga Airport",-2.579389,36.912167,4080,AF,Kenya,KE,"Kajiado County",KE-34,34,Olgulului,0,,,,,,,,50,2026-04-09T05:45:14+00:00
+42603,KE-6158,small_airport,"Oljogi Ranch Airport",0.290272,36.940397,5640,AF,Kenya,KE,"Laikipia County",KE-31,31,"Oljogi Ranch",0,HKOJ,HKOJ,,,,,"Ol Jogi",50,2026-04-09T07:49:22+00:00
+42608,KE-6320,small_airport,"Laikipia Ranch Airport",0.58256,36.432993,6100,AF,Kenya,KE,"Laikipia County",KE-31,31,Olmoran,0,,,,,,,,50,2026-04-09T03:19:28+00:00
+42533,KE-7000,small_airport,"Oloitoktok Airport",-2.909822,37.524862,5320,AF,Kenya,KE,"Kajiado County",KE-34,34,Oloitoktok,0,HKLT,HKLT,,,,,Loitokitok,50,2026-06-07T07:57:35+00:00
+42653,KE-0010,small_airport,"Siana Airstrip",-1.493971,35.410116,5350,AF,Kenya,KE,"Narok County",KE-33,33,Ololaimutiek,0,HKSP,HKSP,,,,,"Siana Springs",50,2026-04-09T21:07:42+00:00
+318811,KE-0184,small_airport,"Oseur Airstrip",-1.606288,35.436835,5700,AF,Kenya,KE,"Narok County",KE-33,33,Oloolaimutia,0,HKEU,HKEU,,,,,,50,2026-04-09T04:53:43+00:00
+42681,KE-0038,small_airport,"Olpejeta Airport",0.016509,36.900701,5845,AF,Kenya,KE,"Laikipia County",KE-31,31,Olpejeta,0,,,,,,,,50,2026-04-09T06:25:25+00:00
+318709,KE-0106,small_airport,"Chyulus Airport",-2.52936,37.7325,3806,AF,Kenya,KE,"Kajiado County",KE-34,34,Oltiasika,0,,,,,,,"Ol Donyo Lodge",50,2026-04-08T14:33:59+00:00
+318765,KE-0162,small_airport,"Mawingo Airport",-0.043513,37.145448,,AF,Kenya,KE,"Meru County",KE-12,12,Oltulili,0,,,,,,,,50,2026-04-08T14:52:33+00:00
+42686,KE-0043,closed,"Hall Strip Airport",2.930361,37.067528,6000,AF,Kenya,KE,"Marsabit County",KE-10,10,Olturot,0,,,,,,,,50,2026-04-08T14:46:26+00:00
+42647,KE-0004,small_airport,"Oropoi Airport",3.810904,34.360943,2842,AF,Kenya,KE,"Turkana County",KE-23,23,Oropoi,0,HKOL,HKOL,,,,,,50,2026-04-09T06:06:18+00:00
+42586,KE-6081,small_airport,"Oserian Naivasha Airport",-0.8526390194892883,36.26747131347656,6350,AF,Kenya,KE,"Nakuru County",KE-32,32,Oserian,0,,,,,,,,50,2008-12-05T17:19:29+00:00
+42669,KE-0026,small_airport,"Oserongoni Airport",-0.8190000057220459,36.28783416748047,6200,AF,Kenya,KE,"Nakuru County",KE-32,32,Oserongoni,0,,,,,,,Oserian,50,2008-12-05T17:20:57+00:00
+318755,KE-0152,small_airport,"Lenchukuti Airport",2.243084,36.670897,,AF,Kenya,KE,"Turkana County",KE-23,23,Parkati,0,,,,,,,,50,2026-04-09T05:13:42+00:00
+318737,KE-0134,small_airport,"Kifuku Estate Airstrip",0.173081,36.583018,6236,AF,Kenya,KE,"Laikipia County",KE-31,31,Pesi,0,HKFK,HKFK,,,,,,50,2026-04-09T03:36:57+00:00
+42715,KE-0072,small_airport,"Rhamu Airport",3.924659,41.223547,805,AF,Kenya,KE,"Mandera County",KE-09,09,Rhamu,0,,,,,,,,50,2026-04-08T16:07:28+00:00
+42577,KE-6067,small_airport,"Barina Airport",-0.12812,36.019289,5600,AF,Kenya,KE,"Nyandarua County",KE-18,18,Rongai,0,HKBI,HKBI,,,,,,50,2026-04-09T04:08:39+00:00
+318707,KE-0104,small_airport,"Carzan Rongai Airport",-0.191457,35.864189,,AF,Kenya,KE,"Nakuru County",KE-32,32,Rongai,0,,,,,,,,50,2022-03-22T18:41:10+00:00
+318722,KE-0119,small_airport,"Gogar Airport",-0.18786,35.856818,,AF,Kenya,KE,"Nakuru County",KE-32,32,Rongai,0,,,,,,,,50,2016-06-15T07:22:31+00:00
+318732,KE-0129,small_airport,"Kasigau Gate Airport",-3.851376,38.515389,,AF,Kenya,KE,"Taita-Taveta County",KE-06,06,Rukanga,0,,,,,,,,50,2026-04-08T23:49:41+00:00
+42579,KE-6071,small_airport,"Ngorare Ranch Airport",0.332259,36.645009,6400,AF,Kenya,KE,"Laikipia County",KE-31,31,Rumuruti,0,,,,,,,,50,2026-04-09T05:58:18+00:00
+607389,HKRL,small_airport,"Rumuruti Airstrip",0.2649,36.532395,8112,AF,Kenya,KE,"Laikipia County",KE-31,31,Rumuruti,0,HKRL,HKRL,,,,,,50,2026-04-09T09:25:19+00:00
+42646,KE-0003,small_airport,"Rusinga Airport",-0.415645,34.141445,3800,AF,Kenya,KE,"Homa Bay County",KE-43,43,Rusinga,0,HKRK,HKRK,,,,,,50,2026-04-09T07:09:13+00:00
+42694,KE-0051,small_airport,"Rutundu Airport",-0.05232,37.464532,10200,AF,Kenya,KE,"Meru County",KE-12,12,Rutundu,0,,,,,,,,50,2026-04-08T15:46:09+00:00
+42601,KE-6153,small_airport,"Sabarei Airport",4.333976,36.906768,2300,AF,Kenya,KE,"Marsabit County",KE-10,10,Sabarei,0,,,,,,,,50,2026-04-08T15:47:28+00:00
+318735,KE-0132,small_airport,"Kedong Airport",-1.299226,36.475135,,AF,Kenya,KE,"Kajiado County",KE-34,34,Saikeri,0,,,,,,,"Ewaso Kendong",50,2026-04-09T04:57:08+00:00
+42692,KE-0049,small_airport,"Sasaab Airstrip",0.635642,37.380241,3000,AF,Kenya,KE,"Samburu County",KE-25,25,Sasaab,0,,,,,,,Loloroi,50,2026-04-09T05:19:08+00:00
+42705,KE-0062,small_airport,"Satao Airport",-3.400585,38.950128,1400,AF,Kenya,KE,"Taita-Taveta County",KE-06,06,Satao,0,,,,,,,,50,2026-04-08T16:57:25+00:00
+318816,KE-0189,small_airport,"Seder Airport",2.314229,36.88698,2850,AF,Kenya,KE,"Marsabit County",KE-10,10,Seder,0,,,,,,,,50,2026-04-08T15:50:06+00:00
+42583,KE-6076,small_airport,"Segera Ranch Airport",0.18463,36.909579,5700,AF,Kenya,KE,"Laikipia County",KE-31,31,Segera,0,HKHZ,HKHZ,,,,,"El Karama",50,2026-04-09T03:25:17+00:00
+42652,KE-0009,small_airport,"Sergoit Airport",0.652355,35.381627,7200,AF,Kenya,KE,"Uasin Gishu County",KE-27,27,Sergoit,0,,,,,,,,50,2026-04-09T06:14:23+00:00
+607327,KE-7018,small_airport,"Barsalinga Airstrip",0.804492,37.149584,,AF,Kenya,KE,"Samburu County",KE-25,25,Sesia,0,,,,,,,,50,2026-04-09T05:53:30+00:00
+318708,KE-0105,small_airport,"Chaffa Airport",0.666346,37.910434,,AF,Kenya,KE,"Isiolo County",KE-11,11,Shaba,0,,,,,,,,50,2026-04-08T15:53:10+00:00
+42575,KE-6064,closed,"Shekiko Airport",-2.569034,40.322601,6,AF,Kenya,KE,"Tana River County",KE-04,04,Shekiko,0,,,,,,,,50,2026-04-09T00:09:20+00:00
+42659,KE-0016,small_airport,"Shompole Dry Lake Airport",-2.020333,36.039112,2050,AF,Kenya,KE,"Kajiado County",KE-34,34,Shompole,0,,,,,,,,50,2026-04-09T06:20:44+00:00
+42660,KE-0017,small_airport,"Shompole All Weather Airport",-1.975631,36.047641,2000,AF,Kenya,KE,"Kajiado County",KE-34,34,Shompole,0,,,,,,,,50,2026-04-09T06:19:50+00:00
+318691,KE-0088,small_airport,"Alia Bay Airport",3.703752,36.265059,,AF,Kenya,KE,"Marsabit County",KE-10,10,"Sibiloi National Park",0,,,,,,,,50,2026-04-08T14:59:23+00:00
+318820,KE-0193,small_airport,"Sigor Airport",1.58209,35.471191,3000,AF,Kenya,KE,"West Pokot County",KE-24,24,Sigor,0,HKOR,HKOR,,,,,,50,2026-04-10T01:49:48+00:00
+607324,KE-7015,small_airport,"Saptai Farm Airstrip",0.091489,35.152851,,AF,Kenya,KE,"Nandi County",KE-29,29,Soiyet,0,,,,,,,,50,2026-04-09T04:48:01+00:00
+42618,KE-6650,small_airport,"Sololo Airport",3.555089,38.644667,2296,AF,Kenya,KE,"Marsabit County",KE-10,10,Sololo,0,,,,,,,,50,2026-04-08T15:54:24+00:00
+318743,KE-0140,small_airport,"Kisima Ranch Airstrip",0.512642,36.694537,6159,AF,Kenya,KE,"Laikipia County",KE-31,31,Sosian,0,HKSF,HKSF,,,,,"Suyian Conservancy",50,2026-04-09T03:38:07+00:00
+318814,KE-0187,small_airport,"Saguta Naibor Ranch Airstrip",0.431231,36.729133,5600,AF,Kenya,KE,"Laikipia County",KE-31,31,Sosian,0,,,,,,,"Sosian Lodge",50,2026-04-09T03:57:06+00:00
+318824,KE-0195,small_airport,"Sosian Ranch Airstrip",0.418494,36.738667,5700,AF,Kenya,KE,"Laikipia County",KE-31,31,Sosian,0,,,,,,,,50,2026-04-09T03:58:44+00:00
+318825,KE-0196,small_airport,"South Horr Airport",2.172091,36.906929,2900,AF,Kenya,KE,"Samburu County",KE-25,25,"South Horr",0,,,,,,,,50,2026-04-09T06:07:49+00:00
+42675,KE-0032,small_airport,"Mugie Ranch Airport",0.714812,36.586594,6150,AF,Kenya,KE,"Laikipia County",KE-31,31,"Sukuta Mugie",0,,,,,,,,50,2026-04-09T06:27:40+00:00
+318827,KE-0198,small_airport,"Sware Airport",1.077515,37.092131,4100,AF,Kenya,KE,"Samburu County",KE-25,25,Sware,0,,,,,,,,50,2026-04-09T06:07:33+00:00
+42568,KE-6053,small_airport,"Taita Hills Airport",-3.515636,38.246889,3150,AF,Kenya,KE,"Taita-Taveta County",KE-06,06,"Taita Hills",0,HKTF,HKTF,,,,,,50,2026-04-09T02:11:18+00:00
+42617,KE-6649,small_airport,"Takabba Airport",3.426179,40.229733,1991,AF,Kenya,KE,"Mandera County",KE-09,09,Takabba,0,,,,,,,,50,2026-04-08T16:07:54+00:00
+42544,KE-6018,small_airport,"Fig Tree  Airport",-1.433867,35.197504,5050,AF,Kenya,KE,"Narok County",KE-33,33,Talek,0,HKFT,,,,,,,50,2026-04-09T05:36:23+00:00
+318833,KE-0204,small_airport,"Weavers Airstrip",-1.363068,35.189882,5000,AF,Kenya,KE,"Narok County",KE-33,33,Talek,0,,,,,,,,50,2026-04-09T06:18:50+00:00
+42683,KE-0040,small_airport,"Talu Airport",-1.1459519863128662,36.91798782348633,5110,AF,Kenya,KE,"Nyeri County",KE-19,19,Talu,0,,,,,,,,50,2008-12-05T17:21:12+00:00
+42690,KE-0047,small_airport,"Tassia Airport",0.426222,37.334026,3400,AF,Kenya,KE,"Laikipia County",KE-31,31,Tassia,0,,,,,,,,50,2026-04-09T06:26:45+00:00
+42569,KE-6054,closed,"Taveta Sisal Airport",-3.402212,37.657592,2525,AF,Kenya,KE,"Taita-Taveta County",KE-06,06,Taveta,0,,,,,,,,50,2026-04-08T16:40:38+00:00
+42612,KE-6576,small_airport,"Taveta Airport",-3.390194,37.672919,2988,AF,Kenya,KE,"Taita-Taveta County",KE-06,06,Taveta,0,,,,,,,,50,2026-04-08T16:40:58+00:00
+42574,KE-6062,small_airport,"Embori Farm Airport",0.07532,37.347636,8666,AF,Kenya,KE,"Meru County",KE-12,12,Timau,0,,,,,,,,50,2026-04-08T15:03:01+00:00
+42688,KE-0045,small_airport,"Ibis Farm Airport",0.0429,37.20151,7000,AF,Kenya,KE,"Meru County",KE-12,12,Timau,0,,,,,,,,50,2026-04-08T14:47:35+00:00
+42689,KE-0046,small_airport,"Oldonyo Farm Airport",0.10022,37.304198,7800,AF,Kenya,KE,"Meru County",KE-12,12,Timau,0,,,,,,,,50,2026-04-08T14:53:31+00:00
+318758,KE-0155,small_airport,"Lolomarik Airport",0.107106,37.278907,7546,AF,Kenya,KE,"Meru County",KE-12,12,Timau,0,HKLM,HKLM,,,,,,50,2026-04-09T07:46:21+00:00
+318828,KE-0199,small_airport,"Tinderet Teas Estate Airstrip",-0.017443,35.351428,6700,AF,Kenya,KE,"Nandi County",KE-29,29,Tinderet,0,HKTI,HKTI,,,,,,50,2026-04-08T22:32:34+00:00
+42604,KE-6166,small_airport,"Todonyang Airport",4.47532,35.91425,1195,AF,Kenya,KE,"Turkana County",KE-23,23,Todonyang,0,,,,,,,,50,2026-04-09T06:06:40+00:00
+607284,KE-7014,small_airport,"Tsavo Airport",-2.990679,38.454175,,AF,Kenya,KE,"Taita-Taveta County",KE-06,06,Tsavo,0,HKSV,HKSV,,,,,,50,2026-04-09T01:36:36+00:00
+318830,KE-0201,small_airport,"Tsavo Safari Camp Airstrip",-2.638919,38.364736,1700,AF,Kenya,KE,"Kitui County",KE-15,15,"Tsavo East",0,,,,,,,,50,2026-04-08T16:38:03+00:00
+318761,KE-0158,small_airport,"Lugard Falls South Airport",-3.048705,38.689706,,AF,Kenya,KE,"Taita-Taveta County",KE-06,06,"Tsavo National Park",0,,,,,,,,50,2026-04-08T16:48:29+00:00
+607283,KE-7013,small_airport,"Black Rhino Airstrip",-3.048654,38.631847,,AF,Kenya,KE,"Taita-Taveta County",KE-06,06,"Tsavo National Park",0,,,,,,,,50,2026-04-08T17:05:24+00:00
+318756,KE-0153,small_airport,"Lentille Airport",0.504473,37.006397,,AF,Kenya,KE,"Laikipia County",KE-31,31,Tura,0,,,,,,,,50,2026-04-09T05:14:32+00:00
+318826,KE-0197,small_airport,"St. Andrews School Airstrip",-0.273941,35.767293,8236,AF,Kenya,KE,"Nakuru County",KE-32,32,Turi,0,,,,,,,,50,2016-06-17T02:25:45+00:00
+318831,KE-0202,small_airport,"Tuum Airport",2.141479,36.759077,4500,AF,Kenya,KE,"Samburu County",KE-25,25,Tuum,0,,,,,,,,50,2026-04-09T06:08:12+00:00
+318748,KE-0145,small_airport,"Kowop Airstrip",2.00616,36.8299,,AF,Kenya,KE,"Samburu County",KE-25,25,"Uaso Rongai",0,,,,,,,,50,2026-04-09T05:07:55+00:00
+42687,KE-0044,small_airport,"Kamwaki Farm Airport",0.132423,37.159395,6530,AF,Kenya,KE,"Laikipia County",KE-31,31,Umande,0,,,,,,,,50,2026-04-09T04:25:00+00:00
+318753,KE-0150,small_airport,"Larsens Camp Airstrip",0.591385,37.586685,,AF,Kenya,KE,"Samburu County",KE-25,25,Umoja,0,,,,,,,,50,2026-04-09T03:40:38+00:00
+31598,HKVO,small_airport,"Voi Airport",-3.368372,38.532313,1900,AF,Kenya,KE,"Taita-Taveta County",KE-06,06,Voi,0,HKVO,HKVO,,,,https://en.wikipedia.org/wiki/Voi_Airport,,50,2026-04-08T16:53:35+00:00
+42605,KE-6175,small_airport,"Voi Park Airport",-3.358286,38.60958,1700,AF,Kenya,KE,"Taita-Taveta County",KE-06,06,Voi,0,,,,,,,,50,2026-04-08T16:53:50+00:00
+318815,KE-0188,small_airport,"Sala Gate Airport",-3.072405,39.215665,,AF,Kenya,KE,"Taita-Taveta County",KE-06,06,Voi,0,HKAV,HKAV,,,,,,50,2026-04-09T01:53:10+00:00
+42606,KE-6178,small_airport,"Wamba Airport",0.976226,37.314215,4324,AF,Kenya,KE,"Samburu County",KE-25,25,Wamba,0,,,,,,,,50,2026-04-09T03:43:55+00:00
+42693,KE-0050,small_airport,"Sarara Airport",1.015742,37.393387,3760,AF,Kenya,KE,"Samburu County",KE-25,25,Wamba,0,,,,,,,,50,2026-04-08T15:49:13+00:00
+318800,KE-0173,small_airport,"Namunyak Airport",1.058237,37.437892,3200,AF,Kenya,KE,"Samburu County",KE-25,25,Wamba,0,,,,,,,,50,2026-04-09T03:50:35+00:00
+42691,KE-0048,small_airport,"Wanguru (Thiba) Airport",-0.695141,37.376411,3400,AF,Kenya,KE,"Kirinyaga County",KE-20,20,"Wanguru (Thiba)",0,,,,,,,,50,2026-04-09T05:16:38+00:00
+31599,HKWE,small_airport,"Webuye Airport",0.598357,34.730178,4300,AF,Kenya,KE,"Bungoma County",KE-39,39,Webuye,0,HKWE,,,,,,6577,50,2026-04-08T16:18:27+00:00
+340236,KE-0211,closed,"Witu Airstrip",-2.37964,40.44099,,AF,Kenya,KE,"Lamu County",KE-05,05,Witu,0,,,,,,,,50,2026-04-09T00:08:04+00:00
+42571,KE-6056,small_airport,"Ziwani Airport",-3.221986,37.801309,3025,AF,Kenya,KE,"Taita-Taveta County",KE-06,06,Ziwani,0,,,,,,,,50,2026-04-08T16:54:54+00:00
+607329,KE-7019,heliport,"National Youth Service College Heliport",-0.47348,36.31721,6614,AF,Kenya,KE,"Nakuru County",KE-32,32,Gilgil,0,,,,,,,,0,2026-04-09T06:35:17+00:00
+326833,KE-0206,closed,"Ngoinio Estate Airport",-0.518039,35.072837,5636,AF,Kenya,KE,"Kericho County",KE-35,35,Kebenet,0,,,,,,,,0,2026-04-09T06:16:19+00:00
+326822,KE-0205,closed,"MacAlder Airport",-0.957591,34.306287,4074,AF,Kenya,KE,"Migori County",KE-44,44,"MacAlder Mines",0,,,,,,,,0,2026-04-09T06:44:28+00:00
